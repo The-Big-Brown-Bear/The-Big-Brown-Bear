@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benji, AKA @The-Big-Brown-Bear
-- 👀 I’m interested in Kai OS apps, cool Arduino projects, all things VIM
+- 👀 I’m interested in Kai OS apps, cool Arduino projects, amd all things VIM
 - 🌱 I’m currently learning the .NET framwork to make more user friendly Linux apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
